@@ -1,0 +1,6 @@
+COMMAND=PREDEX_LIBRARY_TO_DEX_ARCHIVE
+FILE_PATH=/PWC/Work/Android/Apps/TestApp/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar
+FILE_HASH=1cb9ab0988f9b65f1b2776555bc2067154550a94
+DX_VERSION=1.13
+JUMBO_MODE=true
+OPTIMIZE=true
